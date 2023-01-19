@@ -1,0 +1,32 @@
+.wishlist-container{
+    display: grid;
+    gap: 20px;
+    .wishlist-items{
+        display: grid;
+        width: 100%;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+        color: var(--body-color);
+    }
+    .form{
+        display: flex;
+        gap: 1rem;
+        form{
+            flex: 1;
+        }
+    }
+
+    @media (max-width: 840px) {
+        .wishlist-items{
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+}
+
+.loading-overlay{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

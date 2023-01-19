@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Spisko</title>
+  <link>https://spisko.com</link>
+  <description>Vaš lični spisak - Vaša lista želja</description>
+  <item>
+    <title>Prijavite se</title>
+    <link>https://spisko.com/sign-in</link>
+    <description>Prijavite se i pristupite mogućnostima koje Spisko nudi.</description>
+  </item>
+</channel>
+
+</rss>
