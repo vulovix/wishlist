@@ -2,13 +2,18 @@
 <rss version="2.0">
 
 <channel>
-  <title>Spisko</title>
-  <link>https://spisko.com</link>
-  <description>Vaš lični spisak - Vaša lista želja</description>
+  <title>Wishlist</title>
+  <link>https://wishlists.dev</link>
+  <description>Wishlist - Your Dream Compas.</description>
   <item>
-    <title>Prijavite se</title>
-    <link>https://spisko.com/sign-in</link>
-    <description>Prijavite se i pristupite mogućnostima koje Spisko nudi.</description>
+    <title>Sign in</title>
+    <link>https://wishlists.dev/sign-in</link>
+    <description>Sign in and create your Wishlist!</description>
+  </item>
+  <item>
+    <title>Sign up</title>
+    <link>https://wishlists.dev/sign-up</link>
+    <description>Sign up and create your dream Wishlist!</description>
   </item>
 </channel>
 

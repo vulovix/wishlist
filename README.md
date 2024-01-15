@@ -1,5 +1,6 @@
-[Pluoro](https://pluoro.com) web app
+[Wishlist](https://wishlists.dev) web app
 
-- Covid Statistic
-- Covid Ambulances
-- Air Quality
+- Create Account
+- Paste Link
+- Create Wishlist
+- Share wishlist with friends via link

@@ -6,12 +6,17 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://spisko.com</loc>
+  <loc>https://wishlists.dev</loc>
   <lastmod>2023-01-19T18:40:00+00:00</lastmod>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>https://spisko.com/sign-in</loc>
+  <loc>https://wishlists.dev/sign-in</loc>
+  <lastmod>2023-01-19T18:40:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://wishlists.dev/sign-up</loc>
   <lastmod>2023-01-19T18:40:00+00:00</lastmod>
   <priority>0.90</priority>
 </url>

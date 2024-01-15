@@ -3,14 +3,14 @@ import { formatTranslationMessages, useIntl } from '@reactoso-intl';
 
 import de from './de/translation.json';
 import en from './en/translation.json';
-import sr from './sr/translation.json';
+// import sr from './sr/translation.json';
 
-export const defaultLocale = 'sr';
+export const defaultLocale = 'en';
 
 export const translationMessages = {
   en: formatTranslationMessages('en', en),
   de: formatTranslationMessages('de', de),
-  sr: formatTranslationMessages('sr', sr),
+  // sr: formatTranslationMessages('sr', sr),
 };
 
 export * from '@reactoso-intl';
